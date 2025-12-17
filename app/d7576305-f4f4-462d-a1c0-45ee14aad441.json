@@ -1,0 +1,30 @@
+{
+  "pageDefinitionId" : "d7576305-f4f4-462d-a1c0-45ee14aad441",
+  "pageSchema" : {
+    "properties" : { },
+    "controlSchema" : {
+      "schema" : {
+        "type" : "object",
+        "properties" : {
+          "control_4" : {
+            "type" : "StandardIframeComponent",
+            "controlId" : "752b8bd5-8109-4abb-9cc8-37ab40a7e952",
+            "accessRoles" : null,
+            "privileges" : null,
+            "styles" : {
+              "useComponentShadow" : false,
+              "useGreyBackground" : false,
+              "useInnerGreyBackground" : false
+            },
+            "layoutSize" : null,
+            "pageName" : "/xicm/forward.do?url=/jsp/pages/pages/main_frame.jsp&pageId=MY_TEAM_NAV-MY_TEAM_MEMBER_DETAILS",
+            "shouldRenderHidden" : false,
+            "controlKey" : "control_4"
+          }
+        }
+      }
+    }
+  },
+  "title" : "Manager View",
+  "versionName" : "1.0"
+}
