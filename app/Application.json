@@ -1,0 +1,28 @@
+{
+  "applicationId" : "64083054-365b-4839-a1db-76bd78561d51",
+  "applicationName" : "app23",
+  "sections" : [ {
+    "name" : "section1",
+    "icon" : "Alert Circle",
+    "pageDefinitionId" : "42dc575a-e194-4557-841d-3f91c09800aa",
+    "description" : "",
+    "sections" : [ ],
+    "accessRoles" : null,
+    "privileges" : null
+  }, {
+    "name" : "test",
+    "icon" : "Alert Circle",
+    "pageDefinitionId" : "d7576305-f4f4-462d-a1c0-45ee14aad441",
+    "description" : "",
+    "sections" : [ ],
+    "accessRoles" : null,
+    "privileges" : null,
+    "isReferredPage" : false
+  } ],
+  "accessRoles" : [ ],
+  "tagIds" : [ ],
+  "applicationState" : "DRAFT",
+  "gitUrl" : "https://github.com/ShobhaBandigani/testGitRepo",
+  "defaultBranch" : "main",
+  "applicationI18nFiles" : [ ]
+}
