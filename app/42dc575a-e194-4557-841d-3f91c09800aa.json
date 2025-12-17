@@ -1,14 +1,33 @@
 {
-  "pageDefinitionId" : "42dc575a-e194-4557-841d-3f91c09800aa",
-  "pageSchema" : {
-    "properties" : { },
-    "controlSchema" : {
-      "schema" : {
-        "type" : "object",
-        "properties" : { }
+  "pageDefinitionId": "42dc575a-e194-4557-841d-3f91c09800aa",
+  "pageSchema": {
+    "properties": {},
+    "controlSchema": {
+      "schema": {
+        "type": "object",
+        "properties": {
+          "control_1": {
+            "type": "button",
+            "controlId": "5d9629f1-84c7-4a1b-9ba7-8b429723aca3",
+            "accessRoles": null,
+            "privileges": null,
+            "styles": {
+              "useComponentShadow": false,
+              "useGreyBackground": false,
+              "useInnerGreyBackground": false
+            },
+            "events": [],
+            "controlData": "Button",
+            "layoutSize": null,
+            "buttonColorType": "primary",
+            "icon": "",
+            "iconPosition": "left",
+            "shouldRenderHidden": false
+          }
+        }
       }
     }
   },
-  "title" : "page23",
-  "versionName" : "1.0"
+  "title": "page23",
+  "versionName": "1.0"
 }
