@@ -1,0 +1,10 @@
+{
+  "application" : "app/Application.json",
+  "queries" : null,
+  "workflows" : null,
+  "pageDefinitions" : [ "app/42dc575a-e194-4557-841d-3f91c09800aa.json", "app/d7576305-f4f4-462d-a1c0-45ee14aad441.json" ],
+  "policySets" : null,
+  "tables" : null,
+  "compositeComponents" : [ ],
+  "applicationTags" : null
+}
