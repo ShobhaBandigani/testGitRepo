@@ -1,0 +1,14 @@
+{
+  "pageDefinitionId" : "42dc575a-e194-4557-841d-3f91c09800aa",
+  "pageSchema" : {
+    "properties" : { },
+    "controlSchema" : {
+      "schema" : {
+        "type" : "object",
+        "properties" : { }
+      }
+    }
+  },
+  "title" : "page23",
+  "versionName" : "1.0"
+}
